@@ -1,0 +1,3 @@
+day1: Drone technology
+day2: Java technology
+
